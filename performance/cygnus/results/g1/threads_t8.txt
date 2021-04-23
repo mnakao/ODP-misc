@@ -1,0 +1,15 @@
+------ Start of Profile ------
+Hostname       = gnode41
+Start Date     = Fri Jan  1 09:40:34 2021
+End Date       = Fri Jan  1 09:48:15 2021
+Elapsed Time   = 460.998843 sec.
+Algorithm      = SAVING (THREADS)
+Symmetry       = 1
+Memory Usage   = 610.352 MB
+Num of Threads = 8
+------  End of Profile  ------
+Nodes = 1000000, Degrees = 32
+Diameter     = 5
+Diameter Gap = 0 (5 - 5)
+ASPL         = 4.3332290082 (2166612337500/499999500000)
+ASPL Gap     = 0.3511500262 (4.3332290082 - 3.9820789821)

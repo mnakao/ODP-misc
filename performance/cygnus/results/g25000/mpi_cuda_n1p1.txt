@@ -1,0 +1,14 @@
+------ Start of Profile ------
+Hostname       = fnode32
+Start Date     = Fri Jan  1 21:48:15 2021
+End Date       = Fri Jan  1 21:48:15 2021
+Elapsed Time   = 0.005573 sec.
+Algorithm      = NORMAL (MPI+CUDA)
+Symmetry       = 25000
+Memory Usage   = 253.677 MB
+------  End of Profile  ------
+Nodes = 1000000, Degrees = 32
+Diameter     = 5
+Diameter Gap = 0 (5 - 5)
+ASPL         = 4.3332290082 (2166612337500/499999500000)
+ASPL Gap     = 0.3511500262 (4.3332290082 - 3.9820789821)

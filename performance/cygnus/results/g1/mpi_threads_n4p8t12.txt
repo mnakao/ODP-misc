@@ -1,0 +1,24 @@
+
+%NQSV(INFO): ------- Output from job:0000 -------
+------ Start of Profile ------
+Hostname       = gnode15
+Start Date     = Fri Jan  1 02:16:49 2021
+End Date       = Fri Jan  1 02:17:31 2021
+Elapsed Time   = 41.877400 sec.
+Algorithm      = SAVING (MPI+Threads)
+Symmetry       = 1
+Memory Usage   = 610.352 MB
+Procs          = 8
+Num of Threads = 12
+------  End of Profile  ------
+Nodes = 1000000, Degrees = 32
+Diameter     = 5
+Diameter Gap = 0 (5 - 5)
+ASPL         = 4.3332290082 (2166612337500/499999500000)
+ASPL Gap     = 0.3511500262 (4.3332290082 - 3.9820789821)
+
+%NQSV(INFO): ------- Output from job:0001 -------
+
+%NQSV(INFO): ------- Output from job:0002 -------
+
+%NQSV(INFO): ------- Output from job:0003 -------

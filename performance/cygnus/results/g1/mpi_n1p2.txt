@@ -1,0 +1,15 @@
+------ Start of Profile ------
+Hostname       = gnode08
+Start Date     = Fri Jan  1 00:38:01 2021
+End Date       = Fri Jan  1 01:07:56 2021
+Elapsed Time   = 1794.519239 sec.
+Algorithm      = SAVING (MPI)
+Symmetry       = 1
+Memory Usage   = 610.352 MB
+Procs          = 2
+------  End of Profile  ------
+Nodes = 1000000, Degrees = 32
+Diameter     = 5
+Diameter Gap = 0 (5 - 5)
+ASPL         = 4.3332290082 (2166612337500/499999500000)
+ASPL Gap     = 0.3511500262 (4.3332290082 - 3.9820789821)

@@ -1,0 +1,14 @@
+------ Start of Profile ------
+Hostname       = gnode18
+Start Date     = Fri Jan  1 00:34:23 2021
+End Date       = Fri Jan  1 00:34:52 2021
+Elapsed Time   = 28.636986 sec.
+Algorithm      = SAVING (CUDA)
+Symmetry       = 1
+Memory Usage   = 1220.703 MB
+------  End of Profile  ------
+Nodes = 1000000, Degrees = 32
+Diameter     = 5
+Diameter Gap = 0 (5 - 5)
+ASPL         = 4.3332290082 (2166612337500/499999500000)
+ASPL Gap     = 0.3511500262 (4.3332290082 - 3.9820789821)
